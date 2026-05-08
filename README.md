@@ -1,4 +1,4 @@
-# Parcial 1 - Desarrollo de Aplicaión Fullstack
+# Parcial 1 
 
 ## Integrantes
 - Lucas Pujada
