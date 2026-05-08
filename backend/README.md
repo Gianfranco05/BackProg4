@@ -1,4 +1,4 @@
-# Parcial Integrador Catálogo - Backend
+# Parcial - Backend
 
 
 ## Requisitos
